@@ -199,7 +199,7 @@ student-engagement-monitoring/
 
 ## 🧑‍💻 About the Author
 
-Built by **Abinanthan** — a computer science student passionate about real-world applications of computer vision and machine learning.
+Built by **Maheshwaran** — a AI student passionate about real-world applications of computer vision and machine learning.
 
 ---
 
