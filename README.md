@@ -199,9 +199,14 @@ student-engagement-monitoring/
 
 ---
 
-## 🧑‍💻 About the Author
+---
 
-Built by **Mirudhula K** — Final-year B.Tech student in Artificial Intelligence and Data Science, passionate about Artificial Intelligence, Machine Learning, Computer Vision, Data Analytics, and building real-world AI solutions.
+## 🧑‍💻 About the Authors
+
+Built by **Maheshwaran** and **Mirudhula K**.
+
+- **Maheshwaran** — AI student passionate about real-world applications of computer vision and machine learning.
+- **Mirudhula K** — Final-year B.Tech student in Artificial Intelligence and Data Science, contributing to AI-powered applications, Computer Vision, and Machine Learning solutions.
 
 ---
 
