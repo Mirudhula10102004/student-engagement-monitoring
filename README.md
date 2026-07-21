@@ -206,7 +206,7 @@ student-engagement-monitoring/
 Built by **Maheshwaran** and **Mirudhula K**.
 
 - **Maheshwaran** — AI student passionate about real-world applications of computer vision and machine learning.
-- **Mirudhula K** — Final-year B.Tech student in Artificial Intelligence and Data Science, contributing to AI-powered applications, Computer Vision, and Machine Learning solutions.
+- **Mirudhula K** — B.Tech student passionate about real-world applications of artificial intelligence, machine learning, and computer vision.
 
 ---
 
